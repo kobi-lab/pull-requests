@@ -1,1 +1,3 @@
 feature-2 branch file was added! 
+
+another new line! 
