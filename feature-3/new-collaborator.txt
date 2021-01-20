@@ -1,3 +1,1 @@
-This file is added by your new collaborator
-
-Trying to commit this again
+This file is added by your new collaborator - added to feature-3 branch finally
